@@ -1,0 +1,16 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "This project is being created to learn about npm.",
+  "main": "lec5.js",
+  "scripts": {
+    "start": "node lec5.js",
+    "dev": "nodemon lec5.js",
+    "khul-ja-sim-sim": "node lec5.js"
+  },
+  "author": "Complete Coding",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
